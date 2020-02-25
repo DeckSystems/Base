@@ -1,7 +1,8 @@
 # Base
 Blockchain Layer of Deck Systems
 
-HoneyBadger
+# HoneyBadger
+
 An abstract, Rust-language, futures-based implementation of HoneyBadgerBFT.
 
 Currently in-progress.
